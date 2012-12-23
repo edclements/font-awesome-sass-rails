@@ -4,7 +4,7 @@ require "font-awesome-sass-rails/version"
 
 Gem::Specification.new do |s|
   s.name        = "font-awesome-sass-rails"
-  s.version     = Font::Awesome::Sass::Rails::VERSION
+  s.version     = FontAwesome::Sass::Rails::VERSION
   s.authors     = ["Hsiao-Ting Yu"]
   s.email       = ["sst.dreams@gmail.com"]
   s.homepage    = "https://github.com/littlebtc/font-awesome-sass-rails"

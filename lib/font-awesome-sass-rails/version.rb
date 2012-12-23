@@ -1,9 +1,7 @@
-module Font
-  module Awesome
-    module Sass
-      module Rails
-        VERSION = "2.0.0.0"
-      end
+module FontAwesome
+  module Sass
+    module Rails
+      VERSION = "2.0.0.0"
     end
   end
 end
